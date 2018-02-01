@@ -1,0 +1,6 @@
+.DS_Store
+.pydevproject
+.project
+data.db
+__pycache__/
+*.pyc
