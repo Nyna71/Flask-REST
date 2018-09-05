@@ -37,4 +37,4 @@ if __name__ == '__main__':
 
     db.init_app(app)
     
-    app.run("localhost", port=5000, debug=True)
+    app.run("localhost", port=8080, debug=True)
